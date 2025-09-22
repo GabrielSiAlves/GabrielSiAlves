@@ -1,16 +1,18 @@
-![banner](banner.jpg)
-### Olá, eu sou o Gabriel 👋
+![](banner.jpg)
+<h1 align="center">Você constrói o seu futuro.</h1>
+<h3 align="center">Seu futuro está em jogo, vamos moldá-lo! </h3>
+<hr>
 
-Sou estudante de **Técnico em Informática** (currently in progress) e apaixonado(a) por tecnologia e expressão criativa.
+###Olá, eu sou o Gabriel
 
--  Estudando: curso de Técnico em Informática (conclusão prevista: [ano ou semestre]).
+Sou estudante de **Técnico em Informática** e apaixonado por tecnologia e expressão criativa.
+
+-  Estudando: curso de Técnico em Informática .
 -  Hobbies:
   - **Futebol** – gosto de manter o corpo ativo em campo ⚽
   - **Xadrez** – adoro estratégia e raciocínio lógico ♟️
   - **Poesia** – escrevo versos com alma e imaginação ✍️
 
-### O que me inspira:
-Tecnologia, criatividade e o poder da expressão humana — seja em uma função, jogada ou estrofe.
 
 Fique à vontade para explorar meus repositórios 📂 e me seguir para acompanhar minha jornada.
 
