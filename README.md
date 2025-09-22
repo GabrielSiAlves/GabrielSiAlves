@@ -1,3 +1,4 @@
+![banner](banner.jpg)
 ### Olá, eu sou o Gabriel 👋
 
 Sou estudante de **Técnico em Informática** (currently in progress) e apaixonado(a) por tecnologia e expressão criativa.
