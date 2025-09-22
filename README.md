@@ -3,7 +3,7 @@
 <h3 align="center">Seu futuro está em jogo, vamos moldá-lo! </h3>
 <hr>
 
-###Olá, eu sou o Gabriel
+### Olá, eu sou o Gabriel
 
 Sou estudante de **Técnico em Informática** e apaixonado por tecnologia e expressão criativa.
 
