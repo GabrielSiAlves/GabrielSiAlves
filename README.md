@@ -1,4 +1,4 @@
-![](img.png)
+<h0 align="center">![](img.png)
 <h1 align="center">Você constrói o seu futuro.</h1>
 <h3 align="center">Seu futuro está em jogo, vamos moldá-lo! </h3>
 <hr>
